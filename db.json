@@ -1,0 +1,181 @@
+{
+  "users": [
+    {
+      "key": 0,
+      "id": 1,
+      "name": "Sas",
+      "email": "hao@gmail.com",
+      "password": "123456"
+    },
+    {
+      "key": 1,
+      "id": 2,
+      "name": "Dịch vụ ăn uống",
+      "email": "abc@gmail.com",
+      "password": "123456"
+    },
+    {
+      "key": 2,
+      "id": 3,
+      "name": "eva 222",
+      "email": "eva@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 4,
+      "name": "ronaldo",
+      "email": "ronaldo@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 5,
+      "name": "messi",
+      "email": "messi@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 6,
+      "name": "haland",
+      "email": "haland@gmail.com",
+      "password": "123456"
+    },
+    {
+      "name": "Chu Quang Hào update",
+      "email": "chuhao878@gmail.com",
+      "id": "c6671440-a316-4e6d-b2bb-c2a1cbdf6de3",
+      "password": "123456"
+    },
+    {
+      "name": "Nguyễn Văn Tú updat",
+      "email": "nike@gmail.co",
+      "id": "87c2e750-a4f7-4e38-a7c3-0bfdbb5a0a56",
+      "password": "123456"
+    },
+    {
+      "email": "hanhlh@gmail.com",
+      "password": "$2a$10$pP35onpro7GKDWqHUNddQ.ucqs3NGxQf.V2ynZ2ipULj.qhqdnsXu",
+      "id": "eaed9492-f91f-4a85-b758-434ae66461d5",
+      "name": "React Native"
+    },
+    {
+      "email": "ok@gmail.com",
+      "password": "$2a$10$8eNQjZDWKD0VhMPFhT8Fhu3.U9W9J11XJecByZz3qqsGn.EufYyNe",
+      "id": "98fe4c5c-6d83-4124-8eac-1b9ff58f4cb1",
+      "name": "Nguyễn Văn Tú"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$1bLjMvODRWGY1.6ffQhuIO.V4cFaTFALAHQ/PHPfyyJU4DFXtL/Mi",
+      "id": "bccc91a3-1187-4036-84d7-0d0aac7a31e9",
+      "name": "admin"
+    }
+  ],
+  "products": [
+    {
+      "title": "HP 245 G9 R5 5625U (6L1N8PA)",
+      "price": "200",
+      "brand": "HP",
+      "img": "https://images.fpt.shop/unsafe/fit-in/240x215/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/3/638134647806744549_hp-240-g9-bac-dd.jpg",
+      "id": 1,
+      "categoryId": 2
+    },
+    {
+      "title": "MSI Gaming GF63 Thin 11SC-664VN i5-11400H",
+      "price": "200",
+      "brand": "MSI",
+      "img": "https://images.fpt.shop/unsafe/fit-in/240x215/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/16/638121568991277911_msi-gaming-gf63-thin-11-den-dd.jpg",
+      "id": 2,
+      "categoryId": 2
+    },
+    {
+      "key": 2,
+      "id": 3,
+      "title": "Asus TUF Gaming FX517ZC-HN077W i5 12450H update",
+      "price": "200",
+      "brand": "Asus",
+      "img": "https://images.fpt.shop/unsafe/fit-in/240x215/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/10/638140638161724111_asus-tuf-gaming-fx517-den-dd-rtx-3050-dd.jpg",
+      "categoryId": 2
+    },
+    {
+      "title": "HP Pavilion 15-eg2083TU i5-1240P",
+      "price": "200",
+      "brand": "HP",
+      "img": "https://images.fpt.shop/unsafe/fit-in/240x215/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/29/637947006257497678_hp-pavilion-15-eg-bac-2022-win11-dd.jpg",
+      "id": 4,
+      "categoryId": 2
+    },
+    {
+      "title": "Samsung Galaxy S22 5G 128GB",
+      "price": "200",
+      "brand": "Samsung",
+      "img": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/31/638158962810512367_ss-galaxy-s22-dd-icon.jpg",
+      "id": 5,
+      "categoryId": 1
+    },
+    {
+      "title": "iPhone 12 64GB",
+      "price": "200",
+      "brand": "Apple",
+      "img": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/1/31/638107840321195326_iphone-12-dd.jpg",
+      "id": 6,
+      "categoryId": 1
+    },
+    {
+      "title": "Xiaomi Redmi Note 12 4GB-128GB",
+      "price": "200",
+      "brand": "Xiaomi",
+      "img": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/24/638152739283440892_xiaomi-redmi-note-12-dd-bh.jpg",
+      "id": 7,
+      "categoryId": 1
+    },
+    {
+      "title": "Apple Watch Series 8 GPS, viền nhôm dây cao su",
+      "price": "200",
+      "brand": "Apple",
+      "img": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/12/637985935050489552_apple-watch-series-8-gps-41mm-do-dd.jpg",
+      "id": 8,
+      "categoryId": 3
+    },
+    {
+      "title": "Apple Watch Series 8 GPS + Cellular, viền nhôm dây cao su",
+      "price": "200",
+      "brand": "Apple",
+      "img": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/8/637982576348964040_apple-watch-series-8-gps-cellular-41mm-dd.jpg",
+      "id": 9,
+      "categoryId": 3
+    },
+    {
+      "title": "Apple Watch Ultra GPS + Cellular 49mm Titanium Alpine Loop Medium",
+      "price": "200",
+      "brand": "Apple",
+      "img": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/11/11/638037650597168166_apple-watch-ultra-gps-cellular-49mm-titanium-alpine-loop-medium-dd.jpg",
+      "id": 10,
+      "categoryId": 3
+    },
+    {
+      "id": "a4c5a165-3ef8-4b90-b784-ee778def2dc8",
+      "title": "oke nha",
+      "img": "https://images.fpt.shop/unsafe/fit-in/240x215/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/16/638121568991277911_msi-gaming-gf63-thin-11-den-dd.jpg",
+      "brand": "HP",
+      "price": 200,
+      "categoryId": "1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Điện thoại"
+    },
+    {
+      "id": 2,
+      "name": "Laptop"
+    },
+    {
+      "id": 3,
+      "name": "Đồng hồ"
+    }
+  ],
+  "routes": {
+    "/categories/:categoryId/products": "/products?categoryId=:categoryId"
+  }
+}
